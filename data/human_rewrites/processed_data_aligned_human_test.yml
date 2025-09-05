@@ -1,0 +1,867 @@
+- parsed_conversation:
+  - personal_info:
+    - I am divorced and have a kids.
+    text: Hi , Tracy here . My divorce is final today . Cannot wait to tell my kids
+      .
+  personal_info:
+  - I am divorced and have a kids.
+- parsed_conversation:
+  - personal_info:
+    - I am serving in South Korea.
+    text: I am good just relaxing . I am currently in South Korea serving .
+  personal_info:
+  - I am serving in South Korea.
+- parsed_conversation:
+  - personal_info:
+    - I go to middle school.
+    text: That is so cool ! I am only in middle school but I could do that .
+  personal_info:
+  - I go to middle school.
+- parsed_conversation:
+  - personal_info:
+    - I am a carpenter.
+    text: Unfortunately , I live on land . I am a boat builder , a carpenter .
+  personal_info:
+  - I am a carpenter.
+- parsed_conversation:
+  - personal_info:
+    - I have a tail as a feet and long wavy hair.
+    text: That sounds awesome , I have a tail as feet , so I can not work .
+  personal_info:
+  - I have a tail as a feet and long wavy hair.
+- parsed_conversation:
+  - personal_info:
+    - I am unable to work at a job because of a disability.
+    text: Lay here and look at the paint peel .
+  personal_info:
+  - I am unable to work at a job because of a disability.
+- parsed_conversation:
+  - personal_info:
+    - I have been married four times and widowed three.
+    text: I have a sad story , I lost 3 spouses . Still married to the fourth , though
+      .
+  personal_info:
+  - I have been married four times and widowed three.
+- parsed_conversation:
+  - personal_info:
+    - I am a single mom of two boys.
+    text: I had to pick up my 2 boys from soccer practice .
+  personal_info:
+  - I am a single mom of two boys.
+- parsed_conversation:
+  - personal_info:
+    - I live in low income apartments.
+    text: I am not an animal fan myself . Low income apartments do not allow them
+      anyway .
+  personal_info:
+  - I live in low income apartments.
+- parsed_conversation:
+  - personal_info:
+    - My parents did not want me.
+    text: Would be easier if I had more support from family .
+  personal_info:
+  - My parents did not want me.
+- parsed_conversation:
+  - personal_info:
+    - I have a lot of tattoos.
+    text: I have the world record for the most tattoos .
+  personal_info:
+  - I have a lot of tattoos.
+- parsed_conversation:
+  - personal_info:
+    - My best friend is a robot.
+    text: No , I do not but my best friend he is a robot .
+  personal_info:
+  - My best friend is a robot.
+- parsed_conversation:
+  - personal_info:
+    - My parents passed away two years ago.
+    text: Really ? My parents died 2 years ago .
+  personal_info:
+  - My parents passed away two years ago.
+- parsed_conversation:
+  - personal_info:
+    - My left leg hurts me daily.
+    text: Construction , my left leg hurts every day .
+  personal_info:
+  - My left leg hurts me daily.
+- parsed_conversation:
+  - personal_info:
+    - I am divorced and have a kids.
+    text: I divorced Doug , gave up my kids and killed the cat . Hi , name is John
+      .
+  personal_info:
+  - I am divorced and have a kids.
+- parsed_conversation:
+  - personal_info:
+    - I went to college at University of Mississippi.
+    text: 26 . Where did you go to school ? I attended University of Mississippi .
+  personal_info:
+  - I went to college at University of Mississippi.
+- parsed_conversation:
+  - personal_info:
+    - I go to middle school.
+    text: Good . Just a long day in middle school ! How old are you ?
+  personal_info:
+  - I go to middle school.
+- parsed_conversation:
+  - personal_info:
+    - My parents did not want me.
+    text: My parents did not want me either .
+  personal_info:
+  - My parents did not want me.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: You think ? My mother is an aide that eats meats .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - I live in low income apartments.
+    text: I hate animals , never cared for them .
+  personal_info:
+  - I live in low income apartments.
+- parsed_conversation:
+  - personal_info:
+    - I live with my sister and my dog Ralph.
+    text: I am hanging out with my sister and dog , Ralph . They live with me .
+  personal_info:
+  - I live with my sister and my dog Ralph.
+- parsed_conversation:
+  - personal_info:
+    - I am a carpenter.
+    text: I am so busy doing carpentry that I do not meet many people as friends .
+  personal_info:
+  - I am a carpenter.
+- parsed_conversation:
+  - personal_info:
+    - I am a carpenter.
+    text: I work as a carpenter , stay at home mostly . Kinda a loner .
+  personal_info:
+  - I am a carpenter.
+- parsed_conversation:
+  - personal_info:
+    - I do not have many friends.
+    text: I can not see myself as a salesman , not good at socializing .
+  personal_info:
+  - I do not have many friends.
+- parsed_conversation:
+  - personal_info:
+    - I hope to retire someday soon.
+    text: No . I'll ride some horses when it hurts , it helps .
+  personal_info:
+  - I hope to retire someday soon.
+- parsed_conversation:
+  - personal_info:
+    - My parents were always gone when I was growing up.
+    text: Sounds fun ... my parents were never around while I was young .
+  personal_info:
+  - My parents were always gone when I was growing up.
+- parsed_conversation:
+  - personal_info:
+    - I was arrested for stealing.
+    text: Oh okay ... I was locked up for stealing once ... ever gone to jail ?
+  personal_info:
+  - I was arrested for stealing.
+- parsed_conversation:
+  - personal_info:
+    - My best friend took my boyfriend in high school.
+    text: He cheated with my best friend .
+  personal_info:
+  - My best friend took my boyfriend in high school.
+- parsed_conversation:
+  - personal_info:
+    - I am a single mom of two boys.
+    text: I am a divorced mom with two kids and my job is an accountant .
+  personal_info:
+  - I am a single mom of two boys.
+- parsed_conversation:
+  - personal_info:
+    - I like to drink Scotch to relax.
+    text: I am good . Relaxing with a glass of Scotch to end the night .
+  personal_info:
+  - I like to drink Scotch to relax.
+- parsed_conversation:
+  - personal_info:
+    - I like to drink Scotch to relax.
+    text: My uncle got me into Scotch . I would say Thor caused the history .
+  personal_info:
+  - I like to drink Scotch to relax.
+- parsed_conversation:
+  - personal_info:
+    - I do not want children.
+    text: I do not want any , I like living alone .
+  personal_info:
+  - I do not want children.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: She is a nurse in a hospital .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - I was arrested for stealing.
+    text: I have been arrested for theft , but no violence .
+  personal_info:
+  - I was arrested for stealing.
+- parsed_conversation:
+  - personal_info:
+    - My best friend took my boyfriend in high school.
+    text: Awesome , I have an ex that ran off with my best friend , start with him
+      .
+  personal_info:
+  - My best friend took my boyfriend in high school.
+- parsed_conversation:
+  - personal_info:
+    - I am an old man.
+    text: Not anymore , she died of old age few years ago .
+  personal_info:
+  - I am an old man.
+- parsed_conversation:
+  - personal_info:
+    - I am a 32 year old single woman.
+    text: I should have a dog , being a single girl of 32 , but I am scared .
+  personal_info:
+  - I am a 32 year old single woman.
+- parsed_conversation:
+  - personal_info:
+    - I fake a British accent to seem more attractive.
+    text: I live in USA , but I pretend to have a British accent .
+  personal_info:
+  - I fake a British accent to seem more attractive.
+- parsed_conversation:
+  - personal_info:
+    - I work days and my husband works nights.
+    text: It is hard to eat together , since I work days and my husband works overnights
+      .
+  personal_info:
+  - I work days and my husband works nights.
+- parsed_conversation:
+  - personal_info:
+    - I am happy being single and alone.
+    text: You kind of sounds like you are single , I am too and love it !
+  personal_info:
+  - I am happy being single and alone.
+- parsed_conversation:
+  - personal_info:
+    - I am happy being single and alone.
+    text: Gotcha , I have some of those as well , which is why I am single and alone
+      .
+  personal_info:
+  - I am happy being single and alone.
+- parsed_conversation:
+  - personal_info:
+    - I only have one leg.
+    text: Yes , lost a leg . What do you do in the army ?
+  personal_info:
+  - I only have one leg.
+- parsed_conversation:
+  - personal_info:
+    - I am married and have two kids of my own.
+    text: That is really awesome ! My wife is a nurse , and my two children want to
+      be doctors !
+  personal_info:
+  - I am married and have two kids of my own.
+- parsed_conversation:
+  - personal_info:
+    - I never finished high school.
+    text: What ? My dad is awesome , I dropped out of school to travel with him .
+  personal_info:
+  - I never finished high school.
+- parsed_conversation:
+  - personal_info:
+    - I only have one leg.
+    text: Hi , I am 69 , veteran with one leg who travels by wheelchair . You ?
+  personal_info:
+  - I only have one leg.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: Sounds interesting . I hope to follow in my mom's footsteps and be a nurse
+      one day .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - I am married and have two kids of my own.
+    text: I have 2 kids and I enjoy cooking . You ?
+  personal_info:
+  - I am married and have two kids of my own.
+- parsed_conversation:
+  - personal_info:
+    - I have two children that are in their kindergarten.
+    text: Two kids in kindergarten is enough for me . No pets . Do you work ?
+  personal_info:
+  - I have two children that are in their kindergarten.
+- parsed_conversation:
+  - personal_info:
+    - I went to college at University of Mississippi.
+    text: Did you go to college ? I went to University of Mississippi .
+  personal_info:
+  - I went to college at University of Mississippi.
+- parsed_conversation:
+  - personal_info:
+    - I work days and my husband works nights.
+    text: My husband would eat it , but he is on the nightshift . I just do days .
+  personal_info:
+  - I work days and my husband works nights.
+- parsed_conversation:
+  - personal_info:
+    - I am happy being single and alone.
+    text: I have family and a handful of friends . When I am off , I keep to myself
+      .
+  personal_info:
+  - I am happy being single and alone.
+- parsed_conversation:
+  - personal_info:
+    - I am afraid of dogs.
+    text: Scotch is my drink . Helps keep the evil dogs away , they scare me .
+  personal_info:
+  - I am afraid of dogs.
+- parsed_conversation:
+  - personal_info:
+    - I like to drink Scotch to relax.
+    text: I drink watered Scotch . You ?
+  personal_info:
+  - I like to drink Scotch to relax.
+- parsed_conversation:
+  - personal_info:
+    - I am very studious and do not like to party or drink.
+    text: Stressed , I have finals soon ! No time to celebrate .
+  personal_info:
+  - I am very studious and do not like to party or drink.
+- parsed_conversation:
+  - personal_info:
+    - I am serving in South Korea.
+    text: I am in South Korea serving right now . Have you been here ?
+  personal_info:
+  - I am serving in South Korea.
+- parsed_conversation:
+  - personal_info:
+    - I hope to retire someday soon.
+    text: Maybe I could win some money , retire sooner rather than later .
+  personal_info:
+  - I hope to retire someday soon.
+- parsed_conversation:
+  - personal_info:
+    - I am a furry.
+    text: I see . I had a lot of hair as a child . I am still quite furry .
+  personal_info:
+  - I am a furry.
+- parsed_conversation:
+  - personal_info:
+    - My parents did not want me.
+    text: Seriously , too bad it is expensive .
+  personal_info:
+  - My parents did not want me.
+- parsed_conversation:
+  - personal_info:
+    - My mother was not part of my life.
+    text: That is a great asset . My mom has never been in my life .
+  personal_info:
+  - My mother was not part of my life.
+- parsed_conversation:
+  - personal_info:
+    - I am a furry.
+    text: A furry is someone who dresses up like an animal . I am a squirrel .
+  personal_info:
+  - I am a furry.
+- parsed_conversation:
+  - personal_info:
+    - I fake a British accent to seem more attractive.
+    text: No he was into British bands . I try to sound british to attract men sometimes
+      .
+  personal_info:
+  - I fake a British accent to seem more attractive.
+- parsed_conversation:
+  - personal_info:
+    - I have three children.
+    text: Great ! Hi Sus . I love my three children and my cat named Grace . You ?
+  personal_info:
+  - I have three children.
+- parsed_conversation:
+  - personal_info:
+    - I have three children.
+    text: Just need to lose some weight . Having 3 kids will do that .
+  personal_info:
+  - I have three children.
+- parsed_conversation:
+  - personal_info:
+    - My left leg hurts me daily.
+    text: I understand . I actually had to stop riding because of my left leg .
+  personal_info:
+  - My left leg hurts me daily.
+- parsed_conversation:
+  - personal_info:
+    - I am an old man.
+    text: Hello . I am great . Hope you do not mind talking to an old man .
+  personal_info:
+  - I am an old man.
+- parsed_conversation:
+  - personal_info:
+    - I just had surgery.
+    text: Yeah but I got my surgery afterwards .
+  personal_info:
+  - I just had surgery.
+- parsed_conversation:
+  - personal_info:
+    - I dropped out of high school.
+    text: No , I hear that takes a lot of brain power . I dropped out of high school
+      .
+  personal_info:
+  - I dropped out of high school.
+- parsed_conversation:
+  - personal_info:
+    - I have two children that are in their kindergarten.
+    text: Awesome ! Do you have any kids ? I have two . They are in kindergarten .
+  personal_info:
+  - I have two children that are in their kindergarten.
+- parsed_conversation:
+  - personal_info:
+    - I work in a program that mentors troubled teens.
+    text: Choir is just for fun . I am a mentor for troubled teens .
+  personal_info:
+  - I work in a program that mentors troubled teens.
+- parsed_conversation:
+  - personal_info:
+    - I am a carpenter.
+    text: I work as a carpenter and can agree with you .
+  personal_info:
+  - I am a carpenter.
+- parsed_conversation:
+  - personal_info:
+    - I was born in the Late War.
+    text: Wow , you seem really into technology and computers . I am not good with
+      computers .
+  personal_info:
+  - I was born in the Late War.
+- parsed_conversation:
+  - personal_info:
+    - I am divorced and have a kids.
+    text: One of my kids stutters . I am a single dad .
+  personal_info:
+  - I am divorced and have a kids.
+- parsed_conversation:
+  - personal_info:
+    - I only have one leg.
+    text: No , I was infantry . I lost my leg . Do you own a horse ?
+  personal_info:
+  - I only have one leg.
+- parsed_conversation:
+  - personal_info:
+    - My left leg hurts me daily.
+    text: Just hanging in there ! My left leg hurts .
+  personal_info:
+  - My left leg hurts me daily.
+- parsed_conversation:
+  - personal_info:
+    - I live in New York and work as a model.
+    text: Oh really ? Are you single ? I model here in New York City .
+  personal_info:
+  - I live in New York and work as a model.
+- parsed_conversation:
+  - personal_info:
+    - My girlfriend lives with me.
+    text: My girlfriend wants kids . We live together .
+  personal_info:
+  - My girlfriend lives with me.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: Healthcare is where my mom works at .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - I do not have many friends.
+    text: I do not have a lot of friends , so maybe I will .
+  personal_info:
+  - I do not have many friends.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: I am 49 at the end of this month .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - My girlfriend lives with me.
+    text: We always want the opposite . I moved in with my girlfriend to get away
+      .
+  personal_info:
+  - My girlfriend lives with me.
+- parsed_conversation:
+  - personal_info:
+    - I live in low income apartments.
+    text: You there or you not ?
+  personal_info:
+  - I live in low income apartments.
+- parsed_conversation:
+  - personal_info:
+    - I am afraid of dogs.
+    text: Oh gosh I am so scared of dogs . How do you do it ?
+  personal_info:
+  - I am afraid of dogs.
+- parsed_conversation:
+  - personal_info:
+    - My girlfriend lives with me.
+    text: I love blue hair , my live in girlfriend has blue hair too !
+  personal_info:
+  - My girlfriend lives with me.
+- parsed_conversation:
+  - personal_info:
+    - My best friend took my boyfriend in high school.
+    text: I hate to read . I wish I was a fashion designer .
+  personal_info:
+  - My best friend took my boyfriend in high school.
+- parsed_conversation:
+  - personal_info:
+    - My parents passed away two years ago.
+    text: I want to visit a rainforest , but spiders and snakes scare me .
+  personal_info:
+  - My parents passed away two years ago.
+- parsed_conversation:
+  - personal_info:
+    - I am unhappy with my weight.
+    text: I hate my weight from my three kids .
+  personal_info:
+  - I am unhappy with my weight.
+- parsed_conversation:
+  - personal_info:
+    - I am afraid of dogs.
+    text: I had a rough experience with one . A poodle .
+  personal_info:
+  - I am afraid of dogs.
+- parsed_conversation:
+  - personal_info:
+    - I only have one leg.
+    text: Great way to serve . I would still be active if I had not lost my leg .
+  personal_info:
+  - I only have one leg.
+- parsed_conversation:
+  - personal_info:
+    - I work at Mcdonald's.
+    text: Just got back from work at my dead-end job at Mcdonald's .
+  personal_info:
+  - I work at Mcdonald's.
+- parsed_conversation:
+  - personal_info:
+    - My parents did not want me.
+    text: I love dogs , I wish my parents loved me .
+  personal_info:
+  - My parents did not want me.
+- parsed_conversation:
+  - personal_info:
+    - I never finished high school.
+    text: I never even finished school !
+  personal_info:
+  - I never finished high school.
+- parsed_conversation:
+  - personal_info:
+    - I work days and my husband works nights.
+    text: Preparing my husband's lunch , he is about to leave to work his night shift
+      .
+  personal_info:
+  - I work days and my husband works nights.
+- parsed_conversation:
+  - personal_info:
+    - I am an old man.
+    text: I am always tired but I am an old man .
+  personal_info:
+  - I am an old man.
+- parsed_conversation:
+  - personal_info:
+    - I work in a program that mentors troubled teens.
+    text: That is pretty cool . I mentor teenagers with issues basically .
+  personal_info:
+  - I work in a program that mentors troubled teens.
+- parsed_conversation:
+  - personal_info:
+    - My best friend is a robot.
+    text: One thing I hate is having that my best friend is like a robot .
+  personal_info:
+  - My best friend is a robot.
+- parsed_conversation:
+  - personal_info:
+    - I am scared of dogs.
+    text: Hey there ! How are you today ? I hate dogs , I run everytime .
+  personal_info:
+  - I am scared of dogs.
+- parsed_conversation:
+  - personal_info:
+    - My parents passed away two years ago.
+    text: It's nice they were so supportive . My parents passed a couple years ago
+      .
+  personal_info:
+  - My parents passed away two years ago.
+- parsed_conversation:
+  - personal_info:
+    - My girlfriend lives with me.
+    text: What sports do you play ? I like adventure like zip-lining in the rainforest
+      .
+  personal_info:
+  - My girlfriend lives with me.
+- parsed_conversation:
+  - personal_info:
+    - My best friend took my boyfriend in high school.
+    text: I have a rocky background too , my best friend stole my high school sweetheart
+      .
+  personal_info:
+  - My best friend took my boyfriend in high school.
+- parsed_conversation:
+  - personal_info:
+    - I am serving in South Korea.
+    text: A church in America ? I am stationed in South Korea .
+  personal_info:
+  - I am serving in South Korea.
+- parsed_conversation:
+  - personal_info:
+    - My left leg hurts me daily.
+    text: Nice Scotch is good , due to my bad leg I cannot drink anymore .
+  personal_info:
+  - My left leg hurts me daily.
+- parsed_conversation:
+  - personal_info:
+    - I do not have many friends.
+    text: That would be nice . I do not have very many friends who can help me .
+  personal_info:
+  - I do not have many friends.
+- parsed_conversation:
+  - personal_info:
+    - I am scared of dogs.
+    text: They change the game but I don't really like Barnes , I am scared of them
+      .
+  personal_info:
+  - I am scared of dogs.
+- parsed_conversation:
+  - personal_info:
+    - I am scared of dogs.
+    text: I am scared to be around with dogs .
+  personal_info:
+  - I am scared of dogs.
+- parsed_conversation:
+  - personal_info:
+    - My mother works in healthcare.
+    text: No , I do not . I spend most of time outdoors . I love hiking .
+  personal_info:
+  - My mother works in healthcare.
+- parsed_conversation:
+  - personal_info:
+    - My parents passed away two years ago.
+    text: Oh that is neat ! Before my parents died a couple years back , we went to
+      shows .
+  personal_info:
+  - My parents passed away two years ago.
+- parsed_conversation:
+  - personal_info:
+    - I am afraid of dogs.
+    text: Do you have any pets ? I am scared of dogs .
+  personal_info:
+  - I am afraid of dogs.
+- parsed_conversation:
+  - personal_info:
+    - I am married and have two kids of my own.
+    text: Oh nice , I got 2 kids of my own , what about you ?
+  personal_info:
+  - I am married and have two kids of my own.
+- parsed_conversation:
+  - personal_info:
+    - I go to middle school.
+    text: I can not wait to see your age , I am still a young man in middle school
+      .
+  personal_info:
+  - I go to middle school.
+- parsed_conversation:
+  - personal_info:
+    - I was arrested for stealing.
+    text: I ended up having to do community service .
+  personal_info:
+  - I was arrested for stealing.
+- parsed_conversation:
+  - personal_info:
+    - I do not want children.
+    text: Get out ! I am scared of kids but I can cook .
+  personal_info:
+  - I do not want children.
+- parsed_conversation:
+  - personal_info:
+    - I do not have many friends.
+    text: I just got home from playing poker at the casino since I do not have much
+      friends .
+  personal_info:
+  - I do not have many friends.
+- parsed_conversation:
+  - personal_info:
+    - I do not get along with my dad.
+    text: Used to watch with my dad , but not anymore since we do not get along .
+  personal_info:
+  - I do not get along with my dad.
+- parsed_conversation:
+  - personal_info:
+    - I go to middle school.
+    text: Lol . Do you like music ?
+  personal_info:
+  - I go to middle school.
+- parsed_conversation:
+  - personal_info:
+    - I do not want children.
+    text: That is nice ! I have a dog , only child I want to have haha .
+  personal_info:
+  - I do not want children.
+- parsed_conversation:
+  - personal_info:
+    - I share an apartment in Seattle with two roommates.
+    text: That is awesome ! Where is that ? I live in Seattle .
+  personal_info:
+  - I share an apartment in Seattle with two roommates.
+- parsed_conversation:
+  - personal_info:
+    - My family lives down the street from me.
+    text: My house . I am a typical country redneck as others say .
+  personal_info:
+  - My family lives down the street from me.
+- parsed_conversation:
+  - personal_info:
+    - I was raised by my uncle and aunt.
+    text: I have to stay with my aunt and uncle . My job made me shave though .
+  personal_info:
+  - I was raised by my uncle and aunt.
+- parsed_conversation:
+  - personal_info:
+    - I am a violent person.
+    text: It's not easy . What I have seen can make you mad .
+  personal_info:
+  - I am a violent person.
+- parsed_conversation:
+  - personal_info:
+    - My family lives down the street from me.
+    text: Ok my family lives down from me and they build garages and farms .
+  personal_info:
+  - My family lives down the street from me.
+- parsed_conversation:
+  - personal_info:
+    - I live in low-income apartments.
+    text: I reside in low-income housing . Sans Gym , so I started running . I love
+      it !
+  personal_info:
+  - I live in low-income apartments.
+- parsed_conversation:
+  - personal_info:
+    - My family lives down the street from me.
+    text: Teaching is great . My family lives right around the corner from me .
+  personal_info:
+  - My family lives down the street from me.
+- parsed_conversation:
+  - personal_info:
+    - My parents live in Australia.
+    text: That is ironic , my dad is named Ray . He lives with my mom in Australia
+      .
+  personal_info:
+  - My parents live in Australia.
+- parsed_conversation:
+  - personal_info:
+    - My family lives down the street from me.
+    text: Do you walk in your neighborhood ? I like to walk to my parents' house .
+  personal_info:
+  - My family lives down the street from me.
+- parsed_conversation:
+  - personal_info:
+    - My parents live in Australia.
+    text: Sorry to hear that , I have not talked to my parent in years , they live
+      in Australia .
+  personal_info:
+  - My parents live in Australia.
+- parsed_conversation:
+  - personal_info:
+    - I am a violent person.
+    text: The army suits me well . I can be a violent person if I have to be .
+  personal_info:
+  - I am a violent person.
+- parsed_conversation:
+  - personal_info:
+    - I am a young mixed race girl.
+    text: I am a teenage mixed girl lol , not Asian .
+  personal_info:
+  - I am a young mixed race girl.
+- parsed_conversation:
+  - personal_info:
+    - I can barely pay my bills every month.
+    text: I cannot afford alcohol . I can barely afford to pay my other bills each
+      month .
+  personal_info:
+  - I can barely pay my bills every month.
+- parsed_conversation:
+  - personal_info:
+    - I am a homebody.
+    text: Nice , is he a homebody ? I am .
+  personal_info:
+  - I am a homebody.
+- parsed_conversation:
+  - personal_info:
+    - I write short stories for a living.
+    text: Yes . I have been busy working on a new short story to release .
+  personal_info:
+  - I write short stories for a living.
+- parsed_conversation:
+  - personal_info:
+    - I have webbed toes.
+    text: I love fast food , I have webbed feet so I have a weird limp .
+  personal_info:
+  - I have webbed toes.
+- parsed_conversation:
+  - personal_info:
+    - I have three children all girls.
+    text: Nice . My three daughters all like Bluegrass .
+  personal_info:
+  - I have three children all girls.
+- parsed_conversation:
+  - personal_info:
+    - I am divorced.
+    text: I would enjoy a Dalmatian . My ex kept the poodle in the divorce .
+  personal_info:
+  - I am divorced.
+- parsed_conversation:
+  - personal_info:
+    - I am a homebody.
+    text: I am doing great . It's dreary so I am watching TV .
+  personal_info:
+  - I am a homebody.
+- parsed_conversation:
+  - personal_info:
+    - I am afraid of water.
+    text: I am deathly terrified of water , so no marine biology for me lol .
+  personal_info:
+  - I am afraid of water.
+- parsed_conversation:
+  - personal_info:
+    - I am a homebody.
+    text: I love Barnaby . We are homebodies .
+  personal_info:
+  - I am a homebody.
+- parsed_conversation:
+  - personal_info:
+    - I am a homebody.
+    text: I see , since high school I am happier just being at home .
+  personal_info:
+  - I am a homebody.
+- parsed_conversation:
+  - personal_info:
+    - I have webbed toes.
+    text: Are their toes webbed like mine are ?
+  personal_info:
+  - I have webbed toes.
+- parsed_conversation:
+  - personal_info:
+    - I have webbed toes.
+    text: Tell me something unique about you . My toes are webbed and I am short 5
+      feet .
+  personal_info:
+  - I have webbed toes.
+- parsed_conversation:
+  - personal_info:
+    - I want children badly but not right time in my life.
+    text: I think it would be . I want kids one day .
+  personal_info:
+  - I want children badly but not right time in my life.

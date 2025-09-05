@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "raw_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "raw_persona": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "GPT-3-rewrite": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "GPT-4-rewrite": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rewrite_strategy": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
