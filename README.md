@@ -14,7 +14,7 @@ NAP‑2 provides paired inputs and rewrites that target **privacy‑preserving g
 - Train/validation splits in efficient **Apache Arrow** format
 - A lightweight notebook for **data visualization**
 
-
+**Noted that we only publish the training dataset for public use. If needed the test dataset, please send reuest to shuo.huang1@monash.edu **
 Use cases include: privacy‑aware rewriting, anonymization/sanitization, controllable generation, evaluation of privacy vs. utility trade‑offs.
 
 ---
