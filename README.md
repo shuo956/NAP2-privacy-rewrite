@@ -26,7 +26,6 @@ nap2/
 ├─ data/
 │  ├─ human_rewrites/                 # Human rewrite CSV files (eval)
 │  ├─ real/                           # Training split (Arrow)
-│  ├─ real_valid/                     # Validation split (Arrow)
 │  ├─ synth_gpt3_dp/                  # Synthetic rewrites from GPT‑3‑based pipeline
 │  ├─ synth_gpt4/                     # Synthetic rewrites from GPT‑4‑based pipeline
 ├─ notebooks/
@@ -48,7 +47,6 @@ You can load Arrow directly via **pyarrow** or via **Hugging Face Datasets**.
 ```python
 import pyarrow.dataset as ds
 train = ds.dataset('data/real', format='arrow')
-valid = ds.dataset('data/real_valid', format='arrow')
 # Convert to table or pandas for inspection
 train_tbl = train.to_table()
 print(train_tbl.schema)
